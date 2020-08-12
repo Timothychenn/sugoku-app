@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "sudoku-app",
+    "slug": "sudoku-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/sudoku.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#98C3F5"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
